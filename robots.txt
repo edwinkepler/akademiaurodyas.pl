@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:   /assets/img/fancybox
+            /assets/img/owl
+            /assets/img/about/boss_cutout.png
+            /assets/img/boss_halo.png
+            /assets/img/boss_overlay.png
+            /assets/data/

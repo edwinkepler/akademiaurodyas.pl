@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cennik>
+    <twarz>
+        <podstawowy>
+            <zabieg>
+                <nazwa>Zabieg oczyszczania twarzy</nazwa>
+                <opis>(kawitacja, masaż relaksacyjny, maska, pielęgnacja dekoltu i dłoni)</opis>
+                <czas></czas>
+                <cena>120zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Zabieg oczyszczania twarzy dla skór problematycznych</nazwa>
+                <opis>(oczyszczanie manualne + intensywny zabieg przeciwtrądzikowy)</opis>
+                <czas></czas>
+                <cena>od 130zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Zabieg oczyszczania twarzy dla cery dojrzałej</nazwa>
+                <opis>(peeling, kawitacja, oczyszczanie manualne, masaż twarzy i dekoltu, pielęgnacja przeciwzmarszczkowa)</opis>
+                <czas></czas>
+                <cena>od 150zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Zabieg oczyszczania pleców</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>100zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Zabieg relaksacyjny z masażem</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>80zł</cena>
+            </zabieg>
+        </podstawowy>
+        <intensywny>
+            <zabieg>
+                <nazwa>Comodex</nazwa>
+                <opis>- intensywna kuracja dla skóry tłustej i trądzikowej. Pomocna w leczeniu trądzika, zapobiega nawrotom choroby. Zmniejsza przebarwienia i blizny potrądzikowe, zabezpiecza przed nowymi.</opis>
+                <czas></czas>
+                <cena>140zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Rebalancing</nazwa>
+                <opis>- zabieg balansujący z mikronizowaną algą dla cery mieszanej i tłustej.</opis>
+                <czas></czas>
+                <cena>120zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>PSC (Problem Skin Care)</nazwa>
+                <opis>- zabieg regulujący wydzielane serum, oczyszcza skórę i łagodzi podrażnienia. Idealny zabieg dla cery mieszanej i tłustej.</opis>
+                <czas></czas>
+                <cena>140zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Immun</nazwa>
+                <opis>- intensywna kuracja wzmacniająca system ochronny skóry. Zabieg wzmacnia i chroni skórę, w przypadku skóry podrażnionej przynosi natychmiastową ulgę. Wskazany dla osób z trądzikiem różowatym.</opis>
+                <czas></czas>
+                <cena>160zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Beta Glucan</nazwa>
+                <opis>- optymalna pielęgnacja skóry wrażliwej, alergicznej. Zabieg przyspiesza procesy naprawcze w skórze, wzmaga jej system ochrony, nadaje skórze witalności i świeżości.</opis>
+                <czas></czas>
+                <cena>160zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Calming</nazwa>
+                <opis>- specjalista w wyciszaniu i kojeniu skóry wrażliwej, delikatnej, podrażnionej.</opis>
+                <czas></czas>
+                <cena>140zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Unstress</nazwa>
+                <opis>- specjalistyczny zabieg wzmacniający skórę. Łagodzi objawy stresu skóry tj. stany zapalne, podrażnienia, świąd,suchość skóry czy nadmierny łojotok.</opis>
+                <czas></czas>
+                <cena>160zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Clinical Care Detox Treatment</nazwa>
+                <opis>- intensywny zabieg detoksykujący, intensywnie oczyszcza naskórek, neutralizuje wolne rodniki, zwiększa efektywność zabiegów pielęgnacyjnych.</opis>
+                <czas></czas>
+                <cena>od 50zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Hyaluronic</nazwa>
+                <opis>- intensywny zabieg nawilżający. Połączenie poczwórnej mocy kwasu hialuronowego i ekskluzywnych olejków w celu głębokiej kumulacji wilgoci i napięcia skóry.</opis>
+                <czas></czas>
+                <cena>180zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Moist Bubble Care</nazwa>
+                <opis>- - kuracja nawilżająca. Lekka maska w postaci delikatnej pianki, idealnie tolerowana przez skórę tłustą i łojotokową.</opis>
+                <czas></czas>
+                <cena>180zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Hydro Flash Mask</nazwa>
+                <opis>- zabieg z mikrokolagenem dla skóry suchej, pozbawionej elastyczności i odwodnionej. Ekskluzywny zabieg bankietowy.</opis>
+                <czas></czas>
+                <cena>200zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Push Up</nazwa>
+                <opis>- intensywny zabieg przeciwzmarszczkowy. Regeneruje i wypełnia skórę. Poprawia owal twarzy.</opis>
+                <czas></czas>
+                <cena>180zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Energy look</nazwa>
+                <opis>- zabieg o intensywnym działaniu przeciwstarzeniowym i wzmacniającym naturalne mechanizmy obronne skóry. Poprawia gęstość skóry, intensywnie regeneruje, oraz redukuje i wygładza zmarszczki.</opis>
+                <czas></czas>
+                <cena>200zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Skin Con Cellular Energy</nazwa>
+                <opis>- zabieg rewitalizujący na bazie komórek macierzystych i witamin. Przyspiesza syntezę kolagenu i pobudza metabolizm komórkowy. Idealny dla cery zmęczonej, suchej, szarej, przedwcześnie starzejącej się.</opis>
+                <czas></czas>
+                <cena>180zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>ACLASSIC</nazwa>
+                <opis>- intensywna kuracja regenerująca na bazie wit. A - pielęgnuje i naprawia skórę. Retinol silnie regeneruje, wpływa na syntezę kolagenu.</opis>
+                <czas></czas>
+                <cena>180zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>X-treme</nazwa>
+                <opis>- zabieg wygładzająco-regenerujący, ujędrniający. Intensywna kuracja dla cery dojrzałej na bazie protein jedwabiu, witamin i kwasu hialurowego.</opis>
+                <czas></czas>
+                <cena>180zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Cavior Power</nazwa>
+                <opis>- specjalnie skomponowany zabieg dla skóry dojrzałej, suchej wymagającej regeneracji. Intensywnie odżywia cerę.</opis>
+                <czas></czas>
+                <cena>200zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Forever Young</nazwa>
+                <opis>- młodość wszechczasów. Linia odmładzająca na bazie peptydów. Stymuluje tworzenie nowych fibroblastów. Nawilża i ogranicza powstawanie wolnych rodników.</opis>
+                <czas></czas>
+                <cena>200zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Filler</nazwa>
+                <opis>- najnowszej generacji zabieg przeciwzmarszczkowy, wypełniający i głęboko regenerujący skórę dla cery dojrzałej z widocznymi zmarszczkami.</opis>
+                <czas></czas>
+                <cena>270zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Power O2</nazwa>
+                <opis>- intensywny zabieg dotleniający. Stymuluje odnowę komórkową, przywraca skórze witalność i blask. Niweluje wszelkiego rodzaju podrażnienia i zaczerwienienia skóry.</opis>
+                <czas></czas>
+                <cena>160zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Perfect white</nazwa>
+                <opis>- zabieg wybielająco-przeciwzmarszczkowy. Efektem jest redukcja i rozjaśnienie przebarwień, wzrost napięcia i jędrności skóry, poprawa nawilżenia, a także wygładzenie zmarszczek.</opis>
+                <czas>1h</czas>
+                <cena>180zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Oczyszczanie twarzy dodane do zabiegu intensywnego</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>50zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Peeling kawitacyjny</nazwa>
+                <opis>- dodany do zabiegu intensywnego</opis>
+                <czas></czas>
+                <cena>30zł</cena>
+            </zabieg>
+        </intensywny>
+        <exfoliacja>
+            <zabieg>
+                <nazwa>Exofalia</nazwa>
+                <opis>- Kompleksowe zabiegi na bazie idealnie dobranych kompozycji kwasów owocowych - możliwość doboru do każdego typu cery i problemu (np. przebarwienia, łojotok, zmarszczki, rozszerzone pory, itp.) (na bazie kwasów Mediderma)</opis>
+                <czas></czas>
+                <cena>140-400zł</cena>
+            </zabieg>
+        </exfoliacja>
+        <mikrodermabrazja>
+            <zabieg>
+                <nazwa>Mechaniczne złuszczanie naskórka i regeneracja skóry</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>140zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Mikrodermabrazja + kwasy</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>200zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Mikrodermabrazja na ciało</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>od 150zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Mikrodermabrazja dodana do zabiegu</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>60zł</cena>
+            </zabieg>
+        </mikrodermabrazja>
+        <fale>
+            <zabieg>
+                <nazwa>Fale radiowe</nazwa>
+                <opis>- zabieg z użyciem fal radiowych (RF) to jedna z najlepszych metod nieinwazyjnego odmładzania skóry. Przy pomocy radiofrekwencji możemy osiągnąć podobny efekt, jaki dają nam nieprzyjemne i bolesne zabiegi medycyny estetycznej. Nie bez powodu często nazywana jest „liftingiem bez skalpela".</opis>
+                <czas></czas>
+                <cena>od 150zł</cena>
+            </zabieg>
+        </fale>
+        <mezoterapia>
+            <zabieg>
+                <nazwa>Mezoterapia bezigłowa</nazwa>
+                <opis>- nowoczesna metoda wprowadzania w skórę substancji aktywnych, których podstawowym celem  jest odmładzanie, normalizowanie, rewitalizowanie, nawilżanie, tonizowanie, rozjaśnianie plam, spłycanie zmarszczek, lifting oraz redukcja cellulitu, tkanki tłuszczowej, rozstępów, ujędrnienie biustu. Chcąc osiągnąć oczekiwany efekt stosujemy odpowiedni preparat.</opis>
+                <czas></czas>
+                <cena>od 200zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Mezoterapia mikroigłowa</nazwa>
+                <opis>- zabieg polegajacy na pobudzeniu i regeneracji włókien kolagenu i elastyny za pomocą urządzenia Dermapen.</opis>
+                <czas></czas>
+                <cena>od 150zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Mezoterapia igłowa</nazwa>
+                <opis>- jest jednym z najskuteczniejszych i najpopularniejszych zabiegów estetycznych. Skutecznie pielęgnuje skórę przywracając jej świeży i młody wygląd.</opis>
+                <czas></czas>
+                <cena>od 200zł</cena>
+            </zabieg>
+        </mezoterapia>
+    </twarz>
+    <ciało>
+        <podstawowy>
+            <zabieg>
+                <nazwa>Konsultacja + masaż</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>100zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Peeling ciała + masaż</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>120zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Peeling ciała dodany do masażu</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>60zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Peeling ciała przy zabiegach na ciało</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>GRATIS</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Micronized Marine Alge Body Wrap + masaż</nazwa>
+                <opis>- zabieg detoksykujący, wyszczuplający i przeciwcellulitowy.</opis>
+                <czas></czas>
+                <cena>160zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Repagen Body</nazwa>
+                <opis>- zabieg napinający skórę ciała oraz wspomagający redukcję cellulitu i nadmiernej tkanki tłuszczowej. Bazuje na kompozycji wyciągów z alg, soli morskiej oraz bluszczu.</opis>
+                <czas></czas>
+                <cena>od 200zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>NoCell</nazwa>
+                <opis>- kompleksowy dwufazowy zabieg opracowany w celu zwalczania problemów z każdym rodzajem cellulitu z bandażami drenującymi lub błotem algowym.</opis>
+                <czas></czas>
+                <cena>180zł-220zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Rebuilding</nazwa>
+                <opis>- intensywny zabieg ujędrniający na nogi, pośladki i biust. Polecany dla skóry która utraciła jędrność, elastyczność, jest szorstka i z rozstępami.</opis>
+                <czas></czas>
+                <cena>od 250zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Dermomasaż</nazwa>
+                <opis>- dermomasaż to zabieg, który polega na oddziaływaniu na skórną i podskórną tkankę łączną w tym samym czasie, za pomocą stymulacji mechanicznej i podciśnienia. Zabieg jest całkowicie nieinwazyjny i bezpieczny.</opis>
+                <czas></czas>
+                <cena>od 60zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Liposukcja ultradźwiękowa</nazwa>
+                <opis>- bezinwazyjna metoda modelowania sylwetki, poprzez pozbycie się niechcianego tłuszczyku.</opis>
+                <czas></czas>
+                <cena>od 250zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Mezoterapia igłowa</nazwa>
+                <opis>- uniwersalny zabieg medycyny estetycznej, stosowany w terapii antycellulitowej, przy redukcji tkanki tłuszczowej oraz w celu ujędrnienia skóry.</opis>
+                <czas></czas>
+                <cena>od 200zł</cena>
+            </zabieg>
+        </podstawowy>
+    </ciało>
+    <masaż>
+        <podstawowy>
+            <zabieg>
+                <nazwa>Masaż</nazwa>
+                <opis>- klasyczny całościowy.</opis>
+                <czas></czas>
+                <cena>100zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Masaż</nazwa>
+                <opis>- klasyczny całościowy na preparatach ujędrniających lub wyszczuplających.</opis>
+                <czas></czas>
+                <cena>140zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Masaż</nazwa>
+                <opis>- klasyczny częściowy.</opis>
+                <czas></czas>
+                <cena>80zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Masaż</nazwa>
+                <opis>- klasyczny częściowy ujędrniający lub wyszczuplający</opis>
+                <czas></czas>
+                <cena>100zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Masaż relaksujący</nazwa>
+                <opis>- gorącą świecą.</opis>
+                <czas></czas>
+                <cena>140zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Gorącymi stęplami</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>160zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Refleksologia stóp</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>60zł</cena>
+            </zabieg>
+        </podstawowy>
+    </masaż>
+    <dłoniestopy>
+        <dłonie>
+            <zabieg>
+                <nazwa>Stylizacja paznokci akryl/żel.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>100-120zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Uzupełnienie akryl/żel z malowaniem.</nazwa>
+                <opis></opis>.
+                <czas></czas>
+                <cena>80zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Uzupełnienie akryl/żel french.</nazwa>
+                <opis></opis>.
+                <czas></czas>
+                <cena>90zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Manicure hybrydowy french.</nazwa>
+                <opis></opis>.
+                <czas></czas>
+                <cena>60zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Manicure hybrydowy kolor.</nazwa>
+                <opis></opis>.
+                <czas></czas>
+                <cena>50zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Manicure zwykły lakier.</nazwa>
+                <opis></opis>.
+                <czas></czas>
+                <cena>30zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Malowanie hybrydowe.</nazwa>
+                <opis></opis>.
+                <czas></czas>
+                <cena>40zł</cena>
+            </zabieg>
+        </dłonie>
+        <pielęgnacjastóp>
+            <zabieg>
+                <nazwa>Pedicure pielęgnacyjny bez malowania.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>70zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Pedicure pielęgnacyjny + odżywka.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>75zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Pedicure japoński.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>80zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Pedicure pielęgnacyjny + malowanie 1 kolor/french.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>80/90zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Pedicure pielęgnacyjny + malowanie winylowe.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>85zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Pedicure hybrydowy/french.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>90/100zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Malowanie lakierem/winylowym/hybrydowym.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>20/30/40zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Pedicure SPA (kąpiel, pedicure, peeling, maska, parafina, botki cieplne).</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>150zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Parafina na stopy + botki cieplne.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>60zł (do zabiegu 40zł)</cena>
+            </zabieg>
+        </pielęgnacjastóp>
+        <podologia>
+            <zabieg>
+                <nazwa>Konsultacja podologiczna + omówienie terapii.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>GRATIS</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Podstawowy zabieg podologiczny.</nazwa>
+                <opis>Usunięcie standardowych/fizjologicznych zrogowaceń, obcięcie i oszlifowanie paznokci, wmasowanie odpowiedniego preparatu.</opis>
+                <czas></czas>
+                <cena>80zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Pedicure specjalistyczny.</nazwa>
+                <opis>Usunięcie patologicznych zmian skórnych (modzele, odciski, nagniotki, pękające pięty), obcięcie i oszlifowanie paznokci, oczyszczenie wałów paznokciowych, wmasowanie preparatu – cena zależna od stanu zmian chorobowych.</opis>
+                <czas></czas>
+                <cena>od 100zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Opieka nad stopą cukrzycową.</nazwa>
+                <opis>Zabieg specjalistyczny, profilaktyczna pielęgnacja stóp diabetyków.</opis>
+                <czas></czas>
+                <cena>od 90zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Obcinanie i oszlifowanie paznokci.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>40zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Usuwanie odcisku.</nazwa>
+                <opis>Cena zależna od wielkości odcisku, ustalana indywidualnie.</opis>
+                <czas></czas>
+                <cena>od 30zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Usuwanie modzeli.</nazwa>
+                <opis>Nadmiernych zrogowaceń – cena zależna od wielkości zmian, ustalana indywidualnie.</opis>
+                <czas></czas>
+                <cena>od 40zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Usuwanie brodawki wirusowej (kurzajki).</nazwa>
+                <opis>Cena zależna od ilości i wielkości zmian, ustalana indywidualnie.</opis>
+                <czas></czas>
+                <cena>od 40zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Opracowanie pękających pięt + opatrunek.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>od 80zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Podcinanie paznokcia wrastającego/wkręcającego.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>60zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Tamponada,</nazwa>
+                <opis>specjalistyczna opieka paznokcia i wałów paznokciowych za pomocą cienkiej i mocnej fizeliny.</opis>
+                <czas></czas>
+                <cena>10zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Specjalistyczny opatrunek z zastosowaniem odpowiedniego preparatu.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>od 15zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Odciążenie (amortyzacja do zabiegów).</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>od 20zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Aplikacja klamry OnyClip/Fraser /ORA.</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>od 80 do 150zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Przestawienie klamry metalowej lub ortonoksyjnej (kontrola).</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>od 60 do 100zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Rekonstrukcja płytki paznokciowej.</nazwa>
+                <opis>Cena zależna od wielkości paznokcia i zużycia materiału.</opis>
+                <czas></czas>
+                <cena>od 40 do 60zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Oczyszczenie paznokci grzybiczych, zmienionych chorobowo, pourazowych.</nazwa>
+                <opis>Cena zależna od wielkości paznokcia i zużycia materiału.</opis>
+                <czas></czas>
+                <cena>od 60zł</cena>
+            </zabieg>
+        </podologia>
+    </dłoniestopy>
+    <pozostałe>
+        <henna>
+            <zabieg>
+                <nazwa>całość (brwi + rzęsy + regulacja)</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>35zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>brwi (henna + regulacja)</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>25zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>brwi (henna)</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>20zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>rzęsy</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>20zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Regulacja (również woskiem)</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>15zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Makijaż dzienny i okolicznościowy</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>60-150zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Przekłuwanie uszu</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>35zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Przedłużanie i zagęszczanie rzęs</nazwa>
+                <opis>+ uzupełnienie</opis>
+                <czas></czas>
+                <cena>150zł + 50zł</cena>
+            </zabieg>
+        </henna>
+        <depilacja>
+            <zabieg>
+                <nazwa>wąsik</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>15zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>broda</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>15zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>przedramiona</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>40zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>całe ręce</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>50zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>łydki</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>60zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>uda</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>50zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>całe nogi</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>100zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>bikini</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>20-60zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>pachy</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>20-40zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>nogi + bikini</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>120zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>nogi + bikini + pachy</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>140zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>łydki + bikini + pachy</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>100zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>klatka piersiowa</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>50zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>plecy</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>50-70zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>pośladki</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>40zł</cena>
+            </zabieg>
+        </depilacja>
+        <inne>
+            <zabieg>
+                <nazwa>Makijaż dzienny i okolicznościowy</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>60-120zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Przekłuwanie uszu</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>od 30zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Przedłużanie i zagęszczanie rzęs</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>150zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Zdjęcie rzęs</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>50zł</cena>
+            </zabieg>
+            <zabieg>
+                <nazwa>Uzupełnienie</nazwa>
+                <opis></opis>
+                <czas></czas>
+                <cena>od 50zł</cena>
+            </zabieg>
+        </inne>
+    </pozostałe>
+</cennik>
